@@ -1,6 +1,8 @@
 annoying_vocab
 ==============
-updated 2020/11/20:support some definition and first eg sentence only from merriam-webster
+updated 2020/11/20:returns one definition and first eg sentence only from merriam-webster
+------------------
+updated 2020/12/17:returns all the definitions only from merriam-webster
 ------------------
 fucked up by literature or language vocab making sentences homework? Try this.  
 input format:  
