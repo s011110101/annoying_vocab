@@ -1,5 +1,10 @@
-import requests,sys
+import requests,sys,random
+print("how many words?")
 time=int(sys.stdin.readline())
+print("enable random? 0 for disable 1 for enable")
+ifrandom=False
+if int(sys.stdin.readline())==1:
+    ifrandom=True
 words=[]
 for i in range(time):
     ans=""
@@ -48,7 +53,8 @@ for j in words:
         # flag=True
         # exa=""
         # #to get avoid of style
-        print (defin)
+        if ifrandom:
+            defin=[defin[int(random.random()*len(defin))]]
         out=[]
         flagvaliddefin=True
         for j in defin:
