@@ -4,7 +4,7 @@ updated 2020/11/20:returns one definition and first eg sentence only from merria
 ------------------
 updated 2020/12/17:returns all the definitions only from merriam-webster enable random selection
 ------------------
-fucked up by literature or language vocab making sentences homework? Try this.  
+Tried of highschool literature or language vocab making sentences homework? Try this.  
 input format:  
 &nbsp;&nbsp;&nbsp;&nbsp;first line should give the integer N, which is the number of words you are going to search  
 &nbsp;&nbsp;&nbsp;&nbsp;second to second+N line should give each of the individual word  
